@@ -16,7 +16,7 @@ Este projeto nasceu com um objetivo claro: tornar a preparação para o ENEM mai
 ---
 
 ## Tecnologias utilizadas
-<img src="https://skillicons.dev/icons?i=html,css,js,cs,mysql,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,mysql,vscode&theme=dark" />
 
 ---
 
